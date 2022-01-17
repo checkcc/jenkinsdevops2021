@@ -5,12 +5,5 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/checkcc/jenkinsdevops2021.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
